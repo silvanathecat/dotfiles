@@ -1,0 +1,28 @@
+font:
+  family: Cascadia Code
+colors:
+  # Default colors
+  primary:
+    background: '0x012456'
+    foreground: '0xC5C6C8'
+  # Normal colors
+  normal:
+    black:   '0x0a0f15'
+    red:     '0x9a122a'
+    green:   '0x0e851d'
+    yellow:  '0xbe9a00'
+    blue:    '0x002c97'
+    magenta: '0x881798'
+    cyan:    '0x3287cb'
+    white:   '0xcccccc'
+
+  # Bright colors
+  bright:
+    black:   '0x6d7073'
+    red:     '0xbb4156'
+    green:   '0x0a7331'
+    yellow:  '0xf9f1A5'
+    blue:    '0x3773f5'
+    magenta: '0xb4009e'
+    cyan:    '0x47a7b5'
+    white:   '0xf2f2f2'
